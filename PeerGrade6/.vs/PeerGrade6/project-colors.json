@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "79bb81b8-a299-4756-8f12-944a0b86f9e7": {
+      "ProjectGuid": "79bb81b8-a299-4756-8f12-944a0b86f9e7",
+      "DisplayName": "PeerGrade6",
+      "ColorIndex": 0
+    },
+    "f2d36468-9cce-440b-98f9-712118d9198d": {
+      "ProjectGuid": "f2d36468-9cce-440b-98f9-712118d9198d",
+      "DisplayName": "EKRLib",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

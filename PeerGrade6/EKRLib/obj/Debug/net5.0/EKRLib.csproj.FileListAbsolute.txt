@@ -1,0 +1,12 @@
+D:\PeerGrade\PeerGrade6\PeerGrade6\EKRLib\bin\Debug\net5.0\EKRLib.deps.json
+D:\PeerGrade\PeerGrade6\PeerGrade6\EKRLib\bin\Debug\net5.0\EKRLib.dll
+D:\PeerGrade\PeerGrade6\PeerGrade6\EKRLib\bin\Debug\net5.0\ref\EKRLib.dll
+D:\PeerGrade\PeerGrade6\PeerGrade6\EKRLib\bin\Debug\net5.0\EKRLib.pdb
+D:\PeerGrade\PeerGrade6\PeerGrade6\EKRLib\obj\Debug\net5.0\EKRLib.csproj.AssemblyReference.cache
+D:\PeerGrade\PeerGrade6\PeerGrade6\EKRLib\obj\Debug\net5.0\EKRLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\PeerGrade\PeerGrade6\PeerGrade6\EKRLib\obj\Debug\net5.0\EKRLib.AssemblyInfoInputs.cache
+D:\PeerGrade\PeerGrade6\PeerGrade6\EKRLib\obj\Debug\net5.0\EKRLib.AssemblyInfo.cs
+D:\PeerGrade\PeerGrade6\PeerGrade6\EKRLib\obj\Debug\net5.0\EKRLib.csproj.CoreCompileInputs.cache
+D:\PeerGrade\PeerGrade6\PeerGrade6\EKRLib\obj\Debug\net5.0\EKRLib.dll
+D:\PeerGrade\PeerGrade6\PeerGrade6\EKRLib\obj\Debug\net5.0\ref\EKRLib.dll
+D:\PeerGrade\PeerGrade6\PeerGrade6\EKRLib\obj\Debug\net5.0\EKRLib.pdb
